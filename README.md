@@ -1,11 +1,4 @@
-# About [![AppVeyor branch](https://ci.appveyor.com/api/projects/status/wcbc0mefhap535kd?svg=true)](https://ci.appveyor.com/project/Abc-Arbitrage/zebus-directory) [![NuGet](https://buildstats.info/nuget/Zebus.Directory)](https://www.nuget.org/packages/Zebus.Directory/)
 
-This repository is part of the [Zebus](https://github.com/Abc-Arbitrage/Zebus) project, it is documented in Zebus' [wiki](https://github.com/Abc-Arbitrage/Zebus/wiki) page.
+# Zebus.Directory
 
-# Copyright
-
-Copyright © 2015 Abc Arbitrage Asset Management
-
-# License
-
-Zebus.Directory is licensed under MIT, refer to [LICENSE.md](https://github.com/Abc-Arbitrage/Zebus.Directory/blob/master/LICENSE.md) for more information.
+This repository has been archived and merged into [Zebus](https://github.com/Abc-Arbitrage/Zebus).
